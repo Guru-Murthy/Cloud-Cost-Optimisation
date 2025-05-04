@@ -1,2 +1,2 @@
-# Cloud-Cost-Optimisation
-Repository for holding cloud cost optimization project
+# Serverless-Lambda-Function
+EC2 CPU ALERTING THROUGH SNS and Cost Optimization Project
