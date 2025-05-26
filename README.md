@@ -1,2 +1,2 @@
 # Serverless-Lambda-Function
-Cost Optimization Project 
+Cost Optimization Project by deleting stale snapshots 
