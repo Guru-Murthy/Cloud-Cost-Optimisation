@@ -1,2 +1,2 @@
 # Serverless-Lambda-Function
-EC2 CPU ALERTING THROUGH SNS and Cost Optimization Project
+Cost Optimization Project by deleting stale snapshots
